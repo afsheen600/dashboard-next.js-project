@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`NotFound Page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-gmr9ql"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation6 css-u4oo4q-MuiPaper-root"
+      style="--Paper-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h2 MuiTypography-gutterBottom css-z510jb-MuiTypography-root"
+      >
+        404
+      </h2>
+      <h5
+        class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-vso9nb-MuiTypography-root"
+      >
+        Sorry! Something went wrong 
+        <span
+          aria-label="sad"
+          role="img"
+        >
+          😢
+        </span>
+      </h5>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-1xz17g7-MuiTypography-root"
+      >
+        We could not find the page you were looking for.
+      </p>
+      <a
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-1los53i-MuiButtonBase-root-MuiButton-root"
+        href="/"
+        tabindex="0"
+      >
+        Go back to Home
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-gmr9ql"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation6 css-u4oo4q-MuiPaper-root"
+      style="--Paper-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h2 MuiTypography-gutterBottom css-z510jb-MuiTypography-root"
+      >
+        404
+      </h2>
+      <h5
+        class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-vso9nb-MuiTypography-root"
+      >
+        Sorry! Something went wrong 
+        <span
+          aria-label="sad"
+          role="img"
+        >
+          😢
+        </span>
+      </h5>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-1xz17g7-MuiTypography-root"
+      >
+        We could not find the page you were looking for.
+      </p>
+      <a
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-1los53i-MuiButtonBase-root-MuiButton-root"
+        href="/"
+        tabindex="0"
+      >
+        Go back to Home
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
